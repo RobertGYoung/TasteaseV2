@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+P:\RevatureProjects\Project2\Project2SpringV2\tastiesbackend\.metadata\.plugins\org.eclipse.jdt.core
